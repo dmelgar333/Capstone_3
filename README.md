@@ -12,4 +12,4 @@ sales data from 2022-2025 using Power BI.
 Power BI Desktop, Power Query, DAX
 
 ## Video Walkthrough
-(https://yearuptemp-my.sharepoint.com/:p:/g/personal/dmelgar_my_yearupunited_org/IQAW6zFpcOJgQ7VpeV8qN95GAVtVr9dp_u67QjNDufHdl3E?e=kWyCEs)]
+[Click here to watch the project walkthrough](https://yearuptemp-my.sharepoint.com/:p:/g/personal/dmelgar_my_yearupunited_org/IQAW6zFpcOJgQ7VpeV8qN95GAVtVr9dp_u67QjNDufHdl3E?e=xLCwP2)
