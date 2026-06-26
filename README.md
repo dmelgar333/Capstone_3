@@ -1,8 +1,7 @@
 # Capstone 3: EmporiUm Sales Analysis using Power BI
 
 ## Project Overview
-Analysis of East Region: New York & Connecticut sales data 
-(2022-2025) using Power BI.
+Analysis of East Region: New York & Connecticut sales data using Power BI.
 
 ## Territory
 - Region: East
